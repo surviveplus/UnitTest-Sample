@@ -77,8 +77,8 @@ Microsoft Fakes は Visual Studio 2013 Premium 以上でしか使用できませ
  - 標準出力に出力する内容の標準化 
  - テスト実行時の DB の切り替え（MDF、DACPAC、BACPAC の自動アタッチ・インポート） 
  
- ## TFS・VSO 自動ビルドの構成
- 単体テストを Team Foundation Server/Visual Studio Online で実行するには、TFSプロジェクトを作成して、サンプルをソース管理に追加してください。
+## TFS・VSO 自動ビルドの構成
+単体テストを Team Foundation Server/Visual Studio Online で実行するには、TFSプロジェクトを作成して、サンプルをソース管理に追加してください。
 
 チェックイン後、チーム エクスプローラの ビルド を開きます。
 
