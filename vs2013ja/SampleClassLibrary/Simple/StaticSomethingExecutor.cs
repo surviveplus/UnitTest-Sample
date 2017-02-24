@@ -21,8 +21,8 @@ namespace SampleClassLibrary.Simple
         public static int PlusArguments(int first, int second, int third)
         {
             if (first > 10) throw new ArgumentOutOfRangeException("first", "first に 10 より大きい値が指定されました。10 以下の値を指定してください。");
-            if (second > 100) throw new ArgumentOutOfRangeException("first", "second に 100 より大きい値が指定されました。100 以下の値を指定してください。");
-            if (third > 1000) throw new ArgumentOutOfRangeException("first", "third に 1000 より大きい値が指定されました。1000 以下の値を指定してください。");
+            if (second > 100) throw new ArgumentOutOfRangeException("second", "second に 100 より大きい値が指定されました。100 以下の値を指定してください。");
+            if (third > 1000) throw new ArgumentOutOfRangeException("third", "third に 1000 より大きい値が指定されました。1000 以下の値を指定してください。");
 
             return first + second + third;
         } // end function
