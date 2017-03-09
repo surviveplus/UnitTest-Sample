@@ -1,5 +1,5 @@
 # Visual Studio 2017・2015・2013 や VSTS・TFSで動作するFakesやデータベースを使った単体テストの作り方
-最も基本的な単体テストの作り方がわかるコードサンプルを用意しました。ダウンロードしてVisual Studioで実行できます。また、Viual Studio Team Services(VSTS) や Team Foundation Server(TFS)にアップして自動ビルド・自動テストを試すことができます。
+最も基本的な単体テストの作り方がわかるコードサンプルを用意しました。ダウンロードしてVisual Studioで実行できます。また、Visual Studio Team Services(VSTS) や Team Foundation Server(TFS)にアップして自動ビルド・自動テストを試すことができます。
 
 ※旧題「TFS・VSTS・ローカルで動作するデータベースを使った単体テストの作り方・量産方法」から変更しました。
 
